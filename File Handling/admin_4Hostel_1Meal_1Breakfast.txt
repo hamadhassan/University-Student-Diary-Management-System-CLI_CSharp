@@ -1,0 +1,2 @@
+alo,200,nilalo,0,nil
+alo,400,nil

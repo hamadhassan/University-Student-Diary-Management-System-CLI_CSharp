@@ -1,0 +1,7 @@
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\obj\Debug\USDMSVersion01.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\obj\Debug\USDMSVersion01.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\bin\Debug\USDMSVersion01.exe.config
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\bin\Debug\USDMSVersion01.exe
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\bin\Debug\USDMSVersion01.pdb
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\obj\Debug\USDMSVersion01.exe
+D:\COMPUTER SCIENCE\PD\Business Application\University Student Diary Management System\Version_1\USDMSVersion01\obj\Debug\USDMSVersion01.pdb

@@ -1,0 +1,2 @@
+abc,abc,1,1
+ali,ahmed,6,6
